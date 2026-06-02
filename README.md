@@ -2,6 +2,7 @@
 
 A modern, responsive financial dashboard built with React, TypeScript, and Tailwind CSS. Track your income, expenses, and financial insights with an intuitive and interactive interface.
 
+
 ## Features
 
 ### 1. **Dashboard Overview**
@@ -254,5 +255,6 @@ Created as a comprehensive financial dashboard application demonstrating modern 
 ---
 
 **Happy tracking your finances! 💰**
-#   F i n a n c e - D a s h b o a r d - U I  
+#   F i n a n c e - D a s h b o a r d - U I 
+ 
  
